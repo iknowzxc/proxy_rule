@@ -1,0 +1,5 @@
+# NAME: Direct
+# DESC: Rules for direct domains
+payload:
+  - DOMAIN-SUFFIX,nanyangpt.com
+  - DOMAIN-SUFFIX,xmancdn.net

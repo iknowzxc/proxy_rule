@@ -1,0 +1,5 @@
+# NAME: Maimai
+# DESC: Rules for Maimai domains
+payload:
+  - DOMAIN-SUFFIX,taou.com
+  - DOMAIN-SUFFIX,maimai.cn

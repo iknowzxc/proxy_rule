@@ -1,0 +1,6 @@
+# NAME: Global
+# DESC: Rules for global domains
+payload:
+  - DOMAIN-SUFFIX,spring-plus.net
+  - DOMAIN-SUFFIX,spring-plus.com
+  - DOMAIN-SUFFIX,gofile.io

@@ -1,0 +1,4 @@
+# NAME: Catbox
+# DESC: Rules for Catbox domains
+payload:
+  - DOMAIN-SUFFIX,catbox.moe
